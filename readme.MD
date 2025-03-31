@@ -2,5 +2,5 @@
 
 * dosa flour
 * karam
-* oil
+* light oil
 
